@@ -1,5 +1,3 @@
-# plurality
-tested good but errors in the checking
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
